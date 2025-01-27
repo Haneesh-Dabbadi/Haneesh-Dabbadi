@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mern Stack Projects**
 
-- 🌱 I’m currently learning **Mern Stack,Java, Embedded C**
+- 🌱 I’m currently learning **Selenium Automation,Mern Stack,Java **
 
 - 📫 How to reach me **haneeshdabbadi@gmail.com**
 
